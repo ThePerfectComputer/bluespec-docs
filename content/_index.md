@@ -7,6 +7,12 @@ type: docs
 
 This is my attempt to make documentation for Bluespec more accessible. If this is your first exposure to Bluespec, I highly recommend learning Bluespec Haskell as most of my documentation efforts here are biased towards Bluespec Haskell.
 
+This documentation is mostly manual tex -> md a port of the docs from [bsc docs](https://github.com/B-Lang-org/bsc/tree/main/doc).
+
+There is a lot to document, feel free to contribute [here](https://github.com/ThePerfectComputer/bluespec-docs).
+
+I have a dayjob, so I'll port what I can when I get a chance. Yes, I [already tried](https://github.com/B-Lang-org/bsc/issues/377#issuecomment-1378079031) using pandoc.
+
 # Why Bluespec?
 
 There are a lot of High Level HDLs(HLHDLs). Whilst many of the HLHDLs focus on offering a better type system and offering parameterization, BlueSpec goes a step further and helps the digital logic designer avoid mistakes at a formal compiler level. To this end, I've made the following table to help the reader get a feel for where BlueSpec might sit amongst peers in HDL land.
