@@ -13,6 +13,8 @@ There is a lot to document, feel free to contribute [here](https://github.com/Th
 
 I have a dayjob, so I'll port what I can when I get a chance. Yes, I [already tried](https://github.com/B-Lang-org/bsc/issues/377#issuecomment-1378079031) using pandoc.
 
+I'e also begun looking through the bsc compiler sources, and may be able to write a pass that pulls out a bunch of the bsc docs automatically. More on this soon.
+
 # Why Bluespec?
 
 There are a lot of High Level HDLs(HLHDLs). Whilst many of the HLHDLs focus on offering a better type system and offering parameterization, BlueSpec goes a step further and helps the digital logic designer avoid mistakes at a formal compiler level. To this end, I've made the following table to help the reader get a feel for where BlueSpec might sit amongst peers in HDL land.
